@@ -1,5 +1,5 @@
 <h1>Creacion de archivo readme</h1>
 
-- este es el archivo readme
+- estado del proyecto: en construccion
 
-estado: en proceso
+```estado: en proceso```
