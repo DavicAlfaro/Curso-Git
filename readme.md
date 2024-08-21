@@ -3,3 +3,5 @@
 - estado del proyecto: en construccion
 
 ```estado: en proceso```
+
+prueba de registro
